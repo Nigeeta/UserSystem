@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nigeeta
 - 👀 I’m interested in coding in java
-- 🌱 I’m currently learning in pwskills
+- 🌱 I’m currently learning in PwSkills
 - 💞️ I’m looking to collaborate on my learning languages
   
 
